@@ -12,8 +12,6 @@ A production-ready SaaS platform for managing invoices, subscriptions, and payme
 - **API Documentation**: OpenAPI/Swagger documentation
 - **Dockerized**: Full containerization with docker-compose
 
-## 🏗️ Architecture
-
 ## 🛠️ Tech Stack
 
 ### Backend
